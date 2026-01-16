@@ -1,0 +1,270 @@
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5565 ;
+	sh:focusNode dbr:Ferran_Torres ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Player must have at least one foaf:name in English (@en)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5568 ;
+	sh:focusNode dbr:Ferran_Torres ;
+	sh:resultPath dbo:birthDate ;
+	sh:resultMessage "Missing or invalid dbo:birthDate (must be xsd:date)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5569 ;
+	sh:focusNode dbr:Ferran_Torres ;
+	sh:resultPath dbo:position ;
+	sh:resultMessage "Missing or invalid dbo:position (must be IRI)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5571 ;
+	sh:focusNode dbr:Ferran_Torres ;
+	sh:resultPath dbo:number ;
+	sh:resultMessage "Missing or invalid dbo:number (must be nonNegativeInteger)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5573 ;
+	sh:focusNode dbr:Ferran_Torres ;
+	sh:resultPath dbo:height ;
+	sh:resultMessage "Missing or invalid height (must by xsd:Double)" ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5567 ;
+	sh:focusNode dbr:Dani_Rodr\u00EDguez_(footballer,_born_2005) ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Multiple foaf:names values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5565 ;
+	sh:focusNode dbr:Diego_Kochen ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Player must have at least one foaf:name in English (@en)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5568 ;
+	sh:focusNode dbr:Diego_Kochen ;
+	sh:resultPath dbo:birthDate ;
+	sh:resultMessage "Missing or invalid dbo:birthDate (must be xsd:date)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5569 ;
+	sh:focusNode dbr:Diego_Kochen ;
+	sh:resultPath dbo:position ;
+	sh:resultMessage "Missing or invalid dbo:position (must be IRI)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5571 ;
+	sh:focusNode dbr:Diego_Kochen ;
+	sh:resultPath dbo:number ;
+	sh:resultMessage "Missing or invalid dbo:number (must be nonNegativeInteger)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5573 ;
+	sh:focusNode dbr:Diego_Kochen ;
+	sh:resultPath dbo:height ;
+	sh:resultMessage "Missing or invalid height (must by xsd:Double)" ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5567 ;
+	sh:focusNode dbr:Ander_Astralaga ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Multiple foaf:names values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5567 ;
+	sh:focusNode dbr:Pablo_Torre_(footballer) ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Multiple foaf:names values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5567 ;
+	sh:focusNode dbr:Quim_Junyent ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Multiple foaf:names values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5565 ;
+	sh:focusNode dbr:Frenkie_de_Jong ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Player must have at least one foaf:name in English (@en)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5568 ;
+	sh:focusNode dbr:Frenkie_de_Jong ;
+	sh:resultPath dbo:birthDate ;
+	sh:resultMessage "Missing or invalid dbo:birthDate (must be xsd:date)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5569 ;
+	sh:focusNode dbr:Frenkie_de_Jong ;
+	sh:resultPath dbo:position ;
+	sh:resultMessage "Missing or invalid dbo:position (must be IRI)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5571 ;
+	sh:focusNode dbr:Frenkie_de_Jong ;
+	sh:resultPath dbo:number ;
+	sh:resultMessage "Missing or invalid dbo:number (must be nonNegativeInteger)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5573 ;
+	sh:focusNode dbr:Frenkie_de_Jong ;
+	sh:resultPath dbo:height ;
+	sh:resultMessage "Missing or invalid height (must by xsd:Double)" ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5570 ;
+	sh:focusNode dbr:Ansu_Fati ;
+	sh:resultPath dbo:position ;
+	sh:resultMessage "Multiple dbo:postion values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5570 ;
+	sh:focusNode dbr:Pau_V\u00EDctor ;
+	sh:resultPath dbo:position ;
+	sh:resultMessage "Multiple dbo:postion values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5570 ;
+	sh:focusNode dbr:Dani_Olmo ;
+	sh:resultPath dbo:position ;
+	sh:resultMessage "Multiple dbo:postion values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5567 ;
+	sh:focusNode dbr:Aleix_Garrido ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Multiple foaf:names values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Violation ;
+	sh:sourceConstraintComponent sh:MinCountConstraintComponent ;
+	sh:sourceShape _:n5571 ;
+	sh:focusNode dbr:Aleix_Garrido ;
+	sh:resultPath dbo:number ;
+	sh:resultMessage "Missing or invalid dbo:number (must be nonNegativeInteger)." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5567 ;
+	sh:focusNode dbr:Gerard_Mart\u00EDn ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Multiple foaf:names values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5567 ;
+	sh:focusNode dbr:Marc_Bernal ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Multiple foaf:names values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5567 ;
+	sh:focusNode dbr:Guille_Fern\u00E1ndez ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Multiple foaf:names values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5570 ;
+	sh:focusNode dbr:Eric_Garc\u00EDa_(footballer,_born_2001) ;
+	sh:resultPath dbo:position ;
+	sh:resultMessage "Multiple dbo:postion values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5567 ;
+	sh:focusNode dbr:Landry_Farr\u00E9 ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Multiple foaf:names values found; expected at most one." ;
+] .
+[
+	a sh:ValidationResult ;
+	sh:resultSeverity sh:Warning ;
+	sh:sourceConstraintComponent sh:MaxCountConstraintComponent ;
+	sh:sourceShape _:n5567 ;
+	sh:focusNode dbr:Toni_Fern\u00E1ndez ;
+	sh:resultPath foaf:name ;
+	sh:resultMessage "Multiple foaf:names values found; expected at most one." ;
+] .
