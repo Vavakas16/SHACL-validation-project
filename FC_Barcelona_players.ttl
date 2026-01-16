@@ -1,0 +1,290 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+dbr:Ferran_Torres	rdf:type	dbo:Athlete ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Lamine_Yamal	rdf:type	dbo:Athlete .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbr:Lamine_Yamal	foaf:name	"Lamine Yamal"@en .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Lamine_Yamal	dbo:birthDate	"2007-07-13"^^xsd:date ;
+	dbo:height	"1.8"^^xsd:double ;
+	dbo:number	"19"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Winger_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Dani_Rodr\u00EDguez_(footballer,_born_2005)>	rdf:type	dbo:Athlete ;
+	foaf:name	"Dani Rodr\u00EDguez"@en ,
+		"Daniel Rodr\u00EDguez Crespo"@en ;
+	dbo:birthDate	"2005-08-09"^^xsd:date ;
+	dbo:height	"1.75"^^xsd:double ;
+	dbo:number	"7"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Diego_Kochen	rdf:type	dbo:Athlete ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/\u00C1ron_Yaakobishvili>	rdf:type	dbo:Athlete ;
+	foaf:name	"\u00C1ron Yaakobishvili"@en ;
+	dbo:birthDate	"2006-03-06"^^xsd:date ;
+	dbo:height	"1.85"^^xsd:double ;
+	dbo:number	"41"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Ander_Astralaga	rdf:type	dbo:Athlete ;
+	foaf:name	"Ander Astralaga Aranguren"@en ,
+		"Ander Astralaga"@en ;
+	dbo:birthDate	"2004-03-03"^^xsd:date ;
+	dbo:height	"1.9"^^xsd:double ;
+	dbo:number	"1"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Ferm\u00EDn_L\u00F3pez>	rdf:type	dbo:Athlete ;
+	foaf:name	"Ferm\u00EDn L\u00F3pez"@en ;
+	dbo:birthDate	"2003-05-11"^^xsd:date ;
+	dbo:height	"1.74"^^xsd:double ;
+	dbo:number	"16"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Pablo_Torre_(footballer)>	rdf:type	dbo:Athlete ;
+	foaf:name	"Pablo Torre Carral"@en ,
+		"Pablo Torre"@en ;
+	dbo:birthDate	"2003-04-03"^^xsd:date ;
+	dbo:height	"1.73"^^xsd:double ;
+	dbo:number	"14"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Quim_Junyent	rdf:type	dbo:Athlete ;
+	foaf:name	"Quim Junyent"@en ,
+		"Joaquim Junyent Casanova"@en ;
+	dbo:birthDate	"2007-03-25"^^xsd:date ;
+	dbo:height	"1.71"^^xsd:double ;
+	dbo:number	"33"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/I\u00F1igo_Mart\u00EDnez>	rdf:type	dbo:Athlete ;
+	foaf:name	"I\u00F1igo Mart\u00EDnez"@en ;
+	dbo:birthDate	"1991-05-17"^^xsd:date ;
+	dbo:height	"1.82"^^xsd:double ;
+	dbo:number	"5"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Frenkie_de_Jong	rdf:type	dbo:Athlete ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Wojciech_Szcz\u0119sny>	rdf:type	dbo:Athlete ;
+	foaf:name	"Wojciech Szcz\u0119sny"@en ;
+	dbo:birthDate	"1990-04-18"^^xsd:date ;
+	dbo:height	"1.95"^^xsd:double ;
+	dbo:number	"25"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Robert_Lewandowski	rdf:type	dbo:Athlete ;
+	foaf:name	"Robert Lewandowski"@en ;
+	dbo:birthDate	"1988-08-21"^^xsd:date ;
+	dbo:height	"1.85"^^xsd:double ;
+	dbo:number	"9"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Marc-Andr\u00E9_ter_Stegen>	rdf:type	dbo:Athlete ;
+	foaf:name	"Marc-Andr\u00E9 ter Stegen"@en ;
+	dbo:birthDate	"1992-04-30"^^xsd:date ;
+	dbo:height	"1.87"^^xsd:double ;
+	dbo:number	"1"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Ansu_Fati	rdf:type	dbo:Athlete ;
+	foaf:name	"Ansu Fati"@en ;
+	dbo:birthDate	"2002-10-31"^^xsd:date ;
+	dbo:height	"1.78"^^xsd:double ;
+	dbo:number	"10"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Forward_(association_football)> ,
+		<http://dbpedia.org/resource/Winger_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Alejandro_Balde	rdf:type	dbo:Athlete ;
+	foaf:name	"Alejandro Balde"@en ;
+	dbo:birthDate	"2003-10-18"^^xsd:date ;
+	dbo:height	"1.75"^^xsd:double ;
+	dbo:number	"3"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Pedri	rdf:type	dbo:Athlete ;
+	foaf:name	"Pedri"@en ;
+	dbo:birthDate	"2002-11-25"^^xsd:date ;
+	dbo:height	"1.74"^^xsd:double ;
+	dbo:number	"8"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/I\u00F1aki_Pe\u00F1a>	rdf:type	dbo:Athlete ;
+	foaf:name	"I\u00F1aki Pe\u00F1a"@en ;
+	dbo:birthDate	"1999-03-02"^^xsd:date ;
+	dbo:height	"1.84"^^xsd:double ;
+	dbo:number	"13"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Pau_V\u00EDctor>	rdf:type	dbo:Athlete ;
+	foaf:name	"Pau V\u00EDctor"@en ;
+	dbo:birthDate	"2001-11-26"^^xsd:date ;
+	dbo:height	"1.84"^^xsd:double ;
+	dbo:number	"18"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Forward_(association_football)> ,
+		<http://dbpedia.org/resource/Winger_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Jules_Kound\u00E9>	rdf:type	dbo:Athlete ;
+	foaf:name	"Jules Kound\u00E9"@en ;
+	dbo:birthDate	"1998-11-12"^^xsd:date ;
+	dbo:height	"1.8"^^xsd:double ;
+	dbo:number	"23"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Dani_Olmo	rdf:type	dbo:Athlete ;
+	foaf:name	"Dani Olmo"@en ;
+	dbo:birthDate	"1998-05-07"^^xsd:date ;
+	dbo:height	"1.79"^^xsd:double ;
+	dbo:number	"20"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ,
+		<http://dbpedia.org/resource/Winger_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Aleix_Garrido	rdf:type	dbo:Athlete ;
+	foaf:name	"Aleix Garrido Ca\u00F1izares"@en ,
+		"Aleix Garrido"@en ;
+	dbo:birthDate	"2004-02-22"^^xsd:date ;
+	dbo:height	"1.73"^^xsd:double ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Sergi_Dom\u00EDnguez>	rdf:type	dbo:Athlete ;
+	foaf:name	"Sergi Dom\u00EDnguez"@en ;
+	dbo:birthDate	"2005-04-01"^^xsd:date ;
+	dbo:height	"1.88"^^xsd:double ;
+	dbo:number	"5"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/H\u00E9ctor_Fort>	rdf:type	dbo:Athlete ;
+	foaf:name	"H\u00E9ctor Fort"@en ;
+	dbo:birthDate	"2006-08-02"^^xsd:date ;
+	dbo:height	"1.85"^^xsd:double ;
+	dbo:number	"32"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Noah_Darvich	rdf:type	dbo:Athlete ;
+	foaf:name	"Noah Darvich"@en ;
+	dbo:birthDate	"2006-09-25"^^xsd:date ;
+	dbo:height	"1.84"^^xsd:double ;
+	dbo:number	"21"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Pau_Cubars\u00ED>	rdf:type	dbo:Athlete ;
+	foaf:name	"Pau Cubars\u00ED"@en ;
+	dbo:birthDate	"2007-01-22"^^xsd:date ;
+	dbo:height	"1.84"^^xsd:double ;
+	dbo:number	"2"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Pau_Prim	rdf:type	dbo:Athlete ;
+	foaf:name	"Pau Prim"@en ;
+	dbo:birthDate	"2006-02-22"^^xsd:date ;
+	dbo:height	"1.76"^^xsd:double ;
+	dbo:number	"6"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Alexis_Olmedo	rdf:type	dbo:Athlete ;
+	foaf:name	"Alexis Olmedo"@en ;
+	dbo:birthDate	"2006-01-02"^^xsd:date ;
+	dbo:height	"1.87"^^xsd:double ;
+	dbo:number	"23"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Gerard_Mart\u00EDn>	rdf:type	dbo:Athlete ;
+	foaf:name	"Gerard Mart\u00EDn"@en ,
+		"Gerard Mart\u00EDn Langreo"@en ;
+	dbo:birthDate	"2002-02-26"^^xsd:date ;
+	dbo:height	"1.86"^^xsd:double ;
+	dbo:number	"35"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Marc_Bernal	rdf:type	dbo:Athlete ;
+	foaf:name	"Marc Bernal"@en ,
+		"Marc Bernal Casas"@en ;
+	dbo:birthDate	"2007-05-26"^^xsd:date ;
+	dbo:height	"1.92"^^xsd:double ;
+	dbo:number	"28"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/\u00C1lvaro_Cort\u00E9s>	rdf:type	dbo:Athlete ;
+	foaf:name	"\u00C1lvaro Cort\u00E9s"@en ;
+	dbo:birthDate	"2005-03-17"^^xsd:date ;
+	dbo:height	"1.89"^^xsd:double ;
+	dbo:number	"14"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Andr\u00E9s_Cuenca>	rdf:type	dbo:Athlete ;
+	foaf:name	"Andr\u00E9s Cuenca"@en ;
+	dbo:birthDate	"2007-06-11"^^xsd:date ;
+	dbo:height	"1.87"^^xsd:double ;
+	dbo:number	"27"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Guille_Fern\u00E1ndez>	rdf:type	dbo:Athlete ;
+	foaf:name	"Guille Fern\u00E1ndez"@en ,
+		"Guillermo Fern\u00E1ndez Casino"@en ;
+	dbo:birthDate	"2008-06-18"^^xsd:date ;
+	dbo:height	"1.81"^^xsd:double ;
+	dbo:number	"20"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Eric_Garc\u00EDa_(footballer,_born_2001)>	rdf:type	dbo:Athlete ;
+	foaf:name	"Eric Garc\u00EDa"@en ;
+	dbo:birthDate	"2001-01-09"^^xsd:date ;
+	dbo:height	"1.82"^^xsd:double ;
+	dbo:number	"24"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ,
+		dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Landry_Farr\u00E9>	rdf:type	dbo:Athlete ;
+	foaf:name	"Landry Cephas Farr\u00E9 Mir\u00F3"@en ,
+		"Landry Farr\u00E9"@en ;
+	dbo:birthDate	"2007-01-01"^^xsd:date ;
+	dbo:height	"1.79"^^xsd:double ;
+	dbo:number	"32"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Toni_Fern\u00E1ndez>	rdf:type	dbo:Athlete ;
+	foaf:name	"Antonio Fern\u00E1ndez Casino"@en ,
+		"Toni Fern\u00E1ndez"@en ;
+	dbo:birthDate	"2008-07-15"^^xsd:date ;
+	dbo:height	"1.75"^^xsd:double ;
+	dbo:number	"16"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Andreas_Christensen	rdf:type	dbo:Athlete ;
+	foaf:name	"Andreas Christensen"@en ;
+	dbo:birthDate	"1996-04-10"^^xsd:date ;
+	dbo:height	"1.87"^^xsd:double ;
+	dbo:number	"15"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Marc_Casad\u00F3>	rdf:type	dbo:Athlete ;
+	foaf:name	"Marc Casad\u00F3"@en ;
+	dbo:birthDate	"2003-09-14"^^xsd:date ;
+	dbo:height	"1.72"^^xsd:double ;
+	dbo:number	"17"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Gavi_(footballer)>	rdf:type	dbo:Athlete ;
+	foaf:name	"Gavi"@en ;
+	dbo:birthDate	"2004-08-05"^^xsd:date ;
+	dbo:height	"1.73"^^xsd:double ;
+	dbo:number	"6"^^xsd:nonNegativeInteger ;
+	dbo:position	dbr:Midfielder ;
+	dbo:team	dbr:FC_Barcelona .
+dbr:Raphinha	rdf:type	dbo:Athlete ;
+	foaf:name	"Raphinha"@en ;
+	dbo:birthDate	"1996-12-14"^^xsd:date ;
+	dbo:height	"1.76"^^xsd:double ;
+	dbo:number	"11"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Winger_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
+<http://dbpedia.org/resource/Ronald_Ara\u00FAjo>	rdf:type	dbo:Athlete ;
+	foaf:name	"Ronald Ara\u00FAjo"@en ;
+	dbo:birthDate	"1999-03-07"^^xsd:date ;
+	dbo:height	"1.88"^^xsd:double ;
+	dbo:number	"4"^^xsd:nonNegativeInteger ;
+	dbo:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbo:team	dbr:FC_Barcelona .
